@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/manhdvuetk63/Square-and-Circle#readme",
   "devDependencies": {
-    "cypress": "^4.5.0"
+    "cypress": "^4.12.1"
   },
   "dependencies": {}
 }
